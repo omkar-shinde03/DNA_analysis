@@ -1,0 +1,11 @@
+rsID,Genotype,Disease,Risk,Symptoms
+rs7903146,CT,Type 2 Diabetes,	High,"Frequent urination, thirst, fatigue"
+rs429358,AC,Alzheimer’s	,High,"Memory loss, confusion, difficulty concentrating"
+rs1801133,TA,Heart Disease,	Medium,"Chest pain, fatigue, shortness of breath"
+rs762551,TC,Caffeine Sensitivity,	Low,	"Jitters  insomnia"
+rs9939609,CA,Obesity,	Medium,	Weight gain  fatigue
+rs16969968,GC,Lung Cancer,	High,	"Persistent cough chest pain hoarseness"
+rs2383206,AG,Coronary ArteryDisease,	High,	Chest pain shortness of breath
+rs6983267,CA,Prostate Cancer,	Medium,	Difficulty urinating pain
+rs10757278,TG,Heart Disease,	High,	Chest tightness fatigue
+rs10455872,CA,Cardiovascular Risk,	High,	Blood clots stroke heart attack
